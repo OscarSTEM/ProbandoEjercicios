@@ -1,6 +1,6 @@
 """
 Estamos haciendo un recuento de cuantos jugadores hay en el campo de Quidditch en un entrenamiento de las 
-casas, queremos probaros a todos y ver quien es el más apto para ser el buscadro
+casas, queremos probaros a todos y ver quien es el más apto para ser el buscador
 
 Contamos:
 Sois 7 jugadores en total 1 de vosotros será el buscador pero antes debemos de comprobarlo. 
